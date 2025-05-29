@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChatJavaFirefox</string>
+    <string name="enter">ENTER</string>
+    <string name="singnIn">Nao tem uma conta! Crie Aqui</string>
+    <string name="insert">Cadastrar</string>
+    <string name="contatos">contatos</string>
+    <string name="logout">Sair</string>
+    <string name="btn_chat">ENVIAR</string>
+    <string name="message">Digite a Mensagem</string>
+    <string name="registro">Registro</string>
+    <string name="mensagens">Conversas</string>
+    <string name="login">Login</string>
+
+</resources>
