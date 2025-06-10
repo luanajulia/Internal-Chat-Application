@@ -16,7 +16,7 @@
 - [Firebase](https://firebase.google.com/docs/firestore?hl=pt-br) 
 - [Java](https://www.oracle.com/br/java/)
 - [Gradle](https://gradle.org/)
-- AndroidStudio(https://developer.android.com/studio?hl=pt-br)
+- [AndroidStudio](https://developer.android.com/studio?hl=pt-br)
 
 
 ## ✨ Features
